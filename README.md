@@ -1,4 +1,2 @@
--sixiangzhenzhi
+sixiangzhenzhi
 ===============
-
-思想政治（马克思主义、毛思特、中国近代史、思修、形势与政策）
